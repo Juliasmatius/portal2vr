@@ -26,7 +26,9 @@ This game contains flashing lights and fast motion sequences.
 * CPU is underutilized
 
 ## How to use
-1. Download [Portal2VR.zip](https://github.com/Gistix/portal2vr/releases) and extract the files to your Portal 2 directory (steamapps\common\Portal 2)
+1. Download [Portal2VR.zip](https://github.com/Gistix/portal2vr/releases) and extract the files to your Portal 2 directory like indicated below (steamapps\common\Portal 2)
+![image](https://github.com/Juliasmatius/portal2vr/assets/80146546/0ec1dc01-1df8-4440-b0b6-caedc37c7cf6)
+
 2. Connect your headset, then launch Portal 2 with these launch options:
    
    ``` -insecure -window -novid +mat_motion_blur_percent_of_screen_max 0 +mat_queue_mode 0 +mat_vsync 0 +mat_antialias 0 +mat_grain_scale_override 0 -width 1280 -height 720 ```
