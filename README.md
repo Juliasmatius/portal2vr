@@ -26,6 +26,9 @@ This game contains flashing lights and fast motion sequences.
 * CPU is underutilized
 
 ## How to use
+You can either install the mod manually or using this unofficial installed by Juli at [Juliasmatius/Portal-2-VR-installer](https://github.com/Juliasmatius/Portal-2-VR-installer) \
+There is also Juli's unofficial mod manager at [Juliasmatius/Portal-2-VR-manager](https://github.com/Juliasmatius/Portal-2-VR-manager)
+
 1. Download [Portal2VR.zip](https://github.com/Gistix/portal2vr/releases) and extract the files to your Portal 2 directory like indicated below (steamapps\common\Portal 2)
 ![image](https://github.com/Juliasmatius/portal2vr/assets/80146546/0ec1dc01-1df8-4440-b0b6-caedc37c7cf6)
 
