@@ -41,6 +41,7 @@ There is also Juli's unofficial mod manager at [Juliasmatius/Portal-2-VR-manager
 5. To recenter the camera height, press down on the left stick. To see the HUD, aim the controller up or down.
 
 ## Troubleshooting
+FAQ at [FAQ.md](/blob/main/FAQ.md)
 If you have no audio:
 * Go to ```steamapps\common\Portal 2\portal2_dlc3``` and execute ```UpdateSoundCache.cmd```
   
