@@ -1,6 +1,6 @@
 ### I(Juliasmatius/original writer) will **not** be addressing *any* crashes. If someone else wants to, make a fork of the repo, edit it, and make a pull request.
 
-# How to enable 6DOF (by qwertylesh)
+# How to enable 6DOF (credit to qwertylesh)
 1. Browse the Portal 2 local files.
 
 ![image](https://github.com/Juliasmatius/portal2vr/assets/80146546/1f514b95-f06b-46cd-90cd-40000c5d9aa4)
@@ -19,26 +19,26 @@
 
 5. Save and relaunch the game.
 
-# I am too tall/head is in the ceiling.
+# I am too tall/my head is in the ceiling!
 Press the left thumbstick.
 
-# FPS is low/I can't hear anything.
-Make sure to focus the game's window (Click it last).
+# The FPS is low/I can't hear anything!
+Make sure to focus the game's window (click it last).
 
-# Game launches, but don't see in VR.
+# The game launches, but I don't see in VR!
 If you're using an Oculus headset with the Oculus app, go to Settings -> General -> Enable "Unknown Sources"
 
 
 # How do I stream/record gameplay?
-There are two options.
-In the config, set RenderWindow to 1. (lowers performance)
-Enable "Display VR View" in SteamVR (doesn't allow audio capture on programs like Discord)
+There are two options: \
+In the config, set RenderWindow to 1. (impacts performance) \
+Enable "Display VR View" in SteamVR (doesn't allow for audio capture in programs like Discord)
 
 # How do I play co-op?
 To play co-op the person in VR needs to have the [latest preview](https://github.com/Gistix/portal2vr/releases).  \
 The person in VR needs to be host.
 
-# My portal gun is far away.
+# My portal gun is far away!
 In the config file, edit the following:
 ```
 ViewmodelPosCustomOffsetX
